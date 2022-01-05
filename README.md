@@ -9,6 +9,7 @@
 5. bgm과 효과음 삽입
 
 ### *실행화면 1<br/>
+*실행화면 1<br/>
 ![캡처](https://user-images.githubusercontent.com/89093279/148281060-3d7dbc19-6401-484a-879f-6e09bd04b1ac.PNG)
 
 ### *실행화면 2<br/>
